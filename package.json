@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/josefin-sans": "^4.5.12",
     "@next/font": "13.1.6",
     "@types/node": "18.11.18",
     "@types/react": "18.0.27",
@@ -25,6 +26,6 @@
     "@types/styled-components": "^5.1.26"
   },
   "resolutions": {
-   "styled-components" : "^5.3.6"
+    "styled-components": "^5.3.6"
   }
 }

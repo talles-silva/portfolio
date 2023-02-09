@@ -3,12 +3,12 @@ import Header from "@/components/Header";
 import Link from "next/link";
 import styled from "styled-components";
 
-export default function AboutPage() {
+export default function HomePage() {
   return (
     <>
-      <Header title="Sobre" />
+      <Header title="Principal" />
       <Container>
-        <h1>Sobre</h1>
+        <h1>Home</h1>
       </Container>
       <Footer />
     </>
